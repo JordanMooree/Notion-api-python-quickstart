@@ -20,7 +20,7 @@ url = 'https://api.notion.com/v1/pages'
 headers = {
     'Authorization': f'Bearer {secret}',
     'Content-Type': 'application/json',
-    'Notion-Version': '2021-05-13'
+    'Notion-Version': '2021-08-16'
 }
 
 # Data input
